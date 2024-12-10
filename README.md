@@ -1,3 +1,4 @@
+
 <h1 align="center"><b>Hola, soy Antonia Muñoz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <em>
@@ -21,7 +22,22 @@
 -🌱 Actualmente estoy aprendiendo ...
   - Oracle SQL
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Como soy?***
+ ```python
+ class ComoSoy:
+ 	user = 'Antonia Munoz'
+	current_edu = "Instituto Profesional DuocUc"
+	hobbies = [
+				'Ver anime',
+				'Dibujar',
+				'Jugar shooters'
+				'Escuchar musica'
+			]
+	
+	def getCity():
+		return Iquique_Chile()
+
+	
+ ```
