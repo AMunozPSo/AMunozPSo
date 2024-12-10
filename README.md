@@ -16,8 +16,9 @@
 - Aprendizaje continuo
   
 
-**Estoy interesada en el dearrollo de aplicaciones web**
-- 🌱 Actualmente estoy aprendiendo ...
+**Estoy interesada en el desarrollo de aplicaciones web y la ciberseguridad**
+
+-🌱 Actualmente estoy aprendiendo ...
   - Oracle SQL
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
