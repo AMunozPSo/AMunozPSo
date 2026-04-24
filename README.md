@@ -3,7 +3,7 @@
 <p align="center">
   <em>
     Hola, me llamo Antonia Muñoz y estoy estudiando Ingenieria en Informatica en el instituto<a href="https://www.duoc.cl/"> <b>DuocUc</b></a>. <br>
-    <b>Me apasiona aprender algo nuevo fuera del instituto</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    <b>Me apasiona aprender cosas nuevas fuera del instituto</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">“Desarrolla el éxito a partir de los fracasos. El desaliento y el fracaso son los peldaños hacia el éxito”. - Dale Carnegie</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
