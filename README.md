@@ -20,13 +20,13 @@
 **Estoy interesada en el desarrollo de aplicaciones web y la ciberseguridad**
 
 -🌱 Actualmente estoy aprendiendo ...
-  - Oracle SQL
+  - Intro a Machine Learning
   - React js
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Como soy?***
  ```python
- class ComoSoy:
+ class QuienSoy:
  	user = 'Antonia Munoz'
 	current_edu = "Instituto Profesional DuocUc"
 	hobbies = [
