@@ -24,7 +24,7 @@
   - React js
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Como soy?***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Quien soy?***
  ```python
  class QuienSoy:
  	user = 'Antonia Munoz'
