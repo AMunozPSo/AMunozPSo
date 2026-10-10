@@ -19,8 +19,9 @@
 **Estoy interesada en el desarrollo de aplicaciones web y la ciberseguridad**
 
 -🌱 Actualmente estoy aprendiendo ...
-  - Intro a Machine Learning
+  - Machine Learning
   - React js
+  - kotlin
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Quien soy?***
@@ -40,3 +41,6 @@
 
 	
  ```
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AMunozPSo&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=AMunozPSo&langs_count=4&theme=omni)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AMunozPSo&rank_icon=percentile&include_all_commits=true&theme=omni)](https://github-stats-extended.vercel.app/api?username=AMunozPSo&rank_icon=percentile&include_all_commits=true&theme=omni)
