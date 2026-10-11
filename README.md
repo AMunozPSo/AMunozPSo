@@ -16,11 +16,14 @@
 - Aprendizaje continuo
   
 
-**Estoy interesada en el desarrollo de aplicaciones web y la ciberseguridad**
+**Areas de interes:**
+- Ciencia de Datos y Analítica: Modelamiento predictivo, limpieza de datos (Data Cleansing) y análisis exploratorio.
+- Visualización de Negocios: Creación de tableros (dashboards) interactivos para la toma de decisiones.
+- Inteligencia Artificial: Fundamentos de Machine Learning y aprendizaje supervisado.
 
 -🌱 Actualmente estoy aprendiendo ...
   - Machine Learning
-  - React js
+  - JavaSript
   - kotlin
   - PowerBI
 
