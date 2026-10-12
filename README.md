@@ -17,7 +17,7 @@
   
 
 **Areas de interes:**
-- Ciencia de Datos y Analítica: Modelamiento predictivo, limpieza de datos (Data Cleansing) y análisis exploratorio.
+- Ciencia de Datos y Analítica: Modelamiento predictivo, limpieza de datos (Data Cleansing) y análisis exploratorio(EDA).
 - Visualización de Negocios: Creación de tableros (dashboards) interactivos para la toma de decisiones.
 - Inteligencia Artificial: Fundamentos de Machine Learning y aprendizaje supervisado.
 
